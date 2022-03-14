@@ -1,0 +1,13 @@
+{
+    "require": {
+        "league/omnipay": "3",
+        "omnipay/paypal": "^3.0",
+        "omnipay/stripe": "^3.1",
+        "academe/omnipay-adyen": "^3.0",
+        "coingate/omnipay-coingate": "^1.0",
+        "midtrans/midtrans-php": "^2.3",
+        "insenseanalytics/omnipay-razorpay": "^3.0",
+        "hybridauth/hybridauth": "^3.6",
+        "spatie/dns": "^1.4"
+    }
+}
